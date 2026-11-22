@@ -7,11 +7,10 @@
 ---
 
 ## 💻 About Me  
-- 🎯 I specialize in **MERN stack development** (MongoDB, Express.js, React, Node.js)  
-- 🎨 I design **responsive & interactive UIs** with **Tailwind CSS**  
-- 🛠️ I work with **APIs, databases, and modern backend architectures**  
-- 📱 I also explore **mobile app development using Flutter**  
-- 🌱 Always learning new technologies to improve my skills  
+Full Stack Web Developer skilled in **React.js, Next.js, Node.js, and ASP.NET Core**.
+Experienced with MERN apps, real-time messaging, and microservices using **PostgreSQL, MongoDB, and RabbitMQ**.
+Computer Programming student at Isparta University of Applied Sciences.
+Focused on secure RESTful APIs, clean architecture, and maintainable code.
 
 ---
 
