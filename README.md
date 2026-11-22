@@ -1,85 +1,186 @@
-<h1 align="center">Hi, I'm Mohammad Dawara! 👋</h1>
 
-<p align="center">
-  🚀 Full-Stack Web Developer | MERN Stack Enthusiast | Passionate Coder
+<div align="center">
+
+# Hey, I'm Mohammad Dawara 👋
+
+### Full-Stack Developer | Backend Enthusiast | Software Engineering Student
+
+Building scalable applications, designing robust APIs, and turning ideas into software.
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=61DAFB&center=true&vCenter=true&width=600&lines=Full-Stack+Web+Developer;MERN+%26+.NET+Developer;Backend+%26+Microservices+Enthusiast;Always+Learning+and+Building" alt="Typing SVG" />
+
+[![GitHub](https://img.shields.io/badge/GitHub-MohamedHD4K-181717?style=for-the-badge&logo=github)](https://github.com/MohamedHD4K)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/mohammad-dawara-b71a58276/)
+
+</div>
+
+---
+
+## 👨‍💻 About Me
+
+I'm a software engineering student and full-stack developer passionate about building modern, scalable, and maintainable applications.
+
+I enjoy working across the entire development lifecycle, from designing user interfaces to building backend services and managing databases.
+
+```javascript
+const mohammad = {
+    role: "Full-Stack Developer",
+    education: "Software Engineering",
+    location: "Türkiye 🇹🇷",
+
+    frontend: [
+        "React.js",
+        "Next.js",
+        "TypeScript",
+        "Tailwind CSS"
+    ],
+
+    backend: [
+        "Node.js",
+        "Express.js",
+        "ASP.NET Core",
+        "RESTful APIs"
+    ],
+
+    databases: [
+        "PostgreSQL",
+        "MongoDB",
+        "MySQL"
+    ],
+
+    tools: [
+        "Docker",
+        "Git",
+        "GitHub",
+        "RabbitMQ",
+        "Prisma",
+        "Entity Framework Core"
+    ],
+
+    interests: [
+        "Microservices Architecture",
+        "Distributed Systems",
+        "System Design",
+        "Clean Architecture",
+        "Scalable Backend Systems"
+    ],
+
+    mindset: "Build, Learn, Improve 🚀"
+};
+```
+
+---
+
+## 🛠️ Technology Stack
+
+### 🎨 Frontend Development
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,html,css,tailwind,redux" />
+</p>
+
+### ⚙️ Backend Development
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,dotnet,cs,prisma" />
+</p>
+
+### 🗄️ Databases & Messaging
+
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,rabbitmq" />
+</p>
+
+### 🛠️ DevOps & Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,git,github,vscode,visualstudio,figma,linux" />
 </p>
 
 ---
 
-## 💻 About Me  
-Full Stack Web Developer skilled in **React.js, Next.js, Node.js, and ASP.NET Core**.
-Experienced with MERN apps, real-time messaging, and microservices using **PostgreSQL, MongoDB, and RabbitMQ**.
-Computer Programming student at Isparta University of Applied Sciences.
-Focused on secure RESTful APIs, clean architecture, and maintainable code.
+## 🚀 Featured Projects
+
+### 🚗 Carsties – Microservices Auction Platform
+
+**Tech Stack:** ASP.NET Core • C# • PostgreSQL • MongoDB • RabbitMQ • MassTransit • Docker
+
+### 🛒 E-commerce Platform
+
+**Tech Stack:** React • Node.js • Express.js • MongoDB • Prisma • JWT • Tailwind CSS
 
 ---
 
-## 🔥 Tech Stack  
+## 🏗️ Areas of Interest
 
-<h3 align="center" >Frontend<h3>
-<p align="center">
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=nextdotjs" />
-  <img src="https://img.shields.io/badge/Tailwind%20CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-</p>
+I'm particularly interested in backend engineering and modern software architecture.
 
-<h3 align="center" >Backend<h3>
-<p align="center">
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express.js-000?style=for-the-badge&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" />
-</p>
+- RESTful API design and development.
+- Clean Architecture and SOLID principles.
+- Microservices and distributed systems.
+- Database design and optimization.
+- Message brokers and asynchronous communication.
+- Docker and containerization.
+- Authentication, authorization, and application security.
 
-<h3 align="center" >Database<h3>
-<p align="center">
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-</p>
+---
 
-<h3 align="center" >Tools & Platforms<h3>
-<p align="center">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+## 📊 GitHub Statistics
+
+<div align="center">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=MohamedHD4K&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" />
+
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohamedHD4K&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=MohamedHD4K&theme=tokyonight&hide_border=true" />
+
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=MohamedHD4K&theme=tokyo-night&hide_border=true" width="100%" />
+
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=MohamedHD4K&theme=tokyonight&no-frame=true&row=1&column=6" width="100%" />
+
+</div>
+
+---
+
+## 📫 Let's Connect
+
+<div align="center">
+
+<a href="https://github.com/MohamedHD4K">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white" />
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
-</p>
+</a>
+
+<a href="https://www.linkedin.com/in/mohammad-dawara-b71a58276/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="mailto:YOUR_EMAIL@example.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+</div>
 
 ---
 
-## 📌 Current Projects  
-- 🛒 **E-commerce Platform** (MERN)  
-- 💬 **Real-time Chat App** (MERN)  
-- 🐦 **X (Twitter) Clone** (MERN)  
-- 📷 **Instagram Clone** (Flutter)  
+<div align="center">
 
----
+### 💡 "Great software is built with curiosity, consistency, and attention to detail."
 
-## 📊 GitHub Stats  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MohamedHD4K&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-</p>
+<img src="https://komarev.com/ghpvc/?username=MohamedHD4K&color=61DAFB&style=for-the-badge&label=PROFILE+VIEWS" />
 
-### 🔥 GitHub Streak  
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MohamedHD4K&theme=tokyonight" alt="GitHub Streak" />
-</p>
+**Thanks for visiting my profile! Feel free to explore my repositories.** ⭐
 
-### 💡 Most Used Languages  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohamedHD4K&layout=compact&theme=tokyonight" alt="Most Used Languages" />
-</p>
-
----
-
-## 📫 Connect with Me  
-<p align="center">
-  <a href="https://github.com/MohamedHD4K">
-    <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github" alt="GitHub" />
-  </a>
-  <a href="https://www.linkedin.com/in/mohammad-dawara-b71a58276/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
-  </a>
-</p>
+</div>
